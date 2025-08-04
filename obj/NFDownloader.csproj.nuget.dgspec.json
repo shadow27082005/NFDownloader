@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/shadow27/Gerarvideo/NFDownloader/NFDownloader.csproj": {}
+  },
+  "projects": {
+    "/home/shadow27/Gerarvideo/NFDownloader/NFDownloader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/shadow27/Gerarvideo/NFDownloader/NFDownloader.csproj",
+        "projectName": "NFDownloader",
+        "projectPath": "/home/shadow27/Gerarvideo/NFDownloader/NFDownloader.csproj",
+        "packagesPath": "/home/shadow27/.nuget/packages/",
+        "outputPath": "/home/shadow27/Gerarvideo/NFDownloader/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/shadow27/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.118/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

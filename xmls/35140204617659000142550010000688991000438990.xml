@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+    <!-- XML de exemplo para chave: 35140204617659000142550010000688991000438990 -->
+    <!-- UF: SP -->
+    <!-- Ambiente: Produção -->
+    <!-- Data de processamento: 2025-08-04 12:36:18 -->
+    <NFe>
+        <infNFe Id="NFe35140204617659000142550010000688991000438990">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>00043899</cNF>
+                <natOp>Venda</natOp>
+                <mod>55</mod>
+                <serie>001</serie>
+                <nNF>000068899</nNF>
+                <dhEmi>2025-08-04T12:36:18-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>0</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>0</indFinal>
+                <indPres>1</indPres>
+            </ide>
+            <emit>
+                <CNPJ>04617659000142</CNPJ>
+                <xNome>EMPRESA EXEMPLO LTDA</xNome>
+                <enderEmit>
+                    <xLgr>RUA EXEMPLO</xLgr>
+                    <nro>123</nro>
+                    <xBairro>CENTRO</xBairro>
+                    <cMun>3550308</cMun>
+                    <xMun>SAO PAULO</xMun>
+                    <UF>SP</UF>
+                    <CEP>01000000</CEP>
+                </enderEmit>
+                <IE>123456789</IE>
+                <CRT>3</CRT>
+            </emit>
+        </infNFe>
+    </NFe>
+    <protNFe versao="4.00">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>SP_NFE_PL_008_V4</verAplic>
+            <chNFe>35140204617659000142550010000688991000438990</chNFe>
+            <dhRecbto>2025-08-04T12:36:18-03:00</dhRecbto>
+            <nProt>13520250804123618</nProt>
+            <digVal>exemplo=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>

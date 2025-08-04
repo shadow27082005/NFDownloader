@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljxukA/RBdljuJ3w2rKAaTNadHQnazPYpMSEAA7Qo3T80PoAaBLC01qe3iURnKlk7OjsCPfuKmE4i1rZE7r+wg==",
+  "success": true,
+  "projectFilePath": "/home/shadow27/Gerarvideo/NFDownloader/NFDownloader.csproj",
+  "expectedPackageFiles": [
+    "/home/shadow27/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
